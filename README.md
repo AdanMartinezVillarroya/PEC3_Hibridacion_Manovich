@@ -48,7 +48,8 @@ Para usar *Pocket Gallery* con una experiencia más inmersiva, se recomienda hac
 
 ###### ¹ “Augmented Reality Lens", se refiere a una función o característica que permite agregar efectos de realidad aumentada (AR) a través de lentes o filtros utilizando la cámara del dispositivo.
 
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pocket_Gallery_on_table_1.max-1858x1858.format-webp.webp" alt="Smartphone con imagen de museo 3D" width="300">
+  ![Smartphone con museo 3D](https://i0.wp.com/googlediscovery.com/wp-content/uploads/google-pocket-gallery.jpg?resize=800,500&ssl=1)
+
 
 
 
