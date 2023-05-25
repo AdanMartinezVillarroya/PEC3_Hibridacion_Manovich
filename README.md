@@ -45,7 +45,7 @@ Se puede pasear y examinar las obras, acercarse para ver detalles desde cualquie
 
 Otra de sus grandes ventajas es la capacidad de exponer obras que no están disponibles al público en general o bien obras que son muy delicadas de exhibir, las cuales no podríamos ver o nos sería muy complicado. 
 
-Para usar *Pocket Gallery* con una experiencia más inmersiva, se recomienda hacerlo desde un dispositivo con cámara, ya sea con un smartphone o una tablet aunque también podamos hacerlo desde nuestro ordenador. Esto es porque al usar AR Lens¹ podremos ver la galería a través de nuestra cámara y así desplazarnos por ella moviendo nuestro dispositivo como si estuviéramos dentro del museo.
+Para usar *Pocket Gallery* con una experiencia más inmersiva, se recomienda hacerlo desde un dispositivo con cámara, ya sea con un *smartphone* o una *tablet* aunque también podamos hacerlo desde nuestro ordenador. Esto es porque al usar AR Lens¹ podremos ver la galería a través de nuestra cámara y así desplazarnos por ella moviendo nuestro dispositivo como si estuviéramos dentro del museo.
 
 
 
