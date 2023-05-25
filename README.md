@@ -55,16 +55,49 @@ Para usar *Pocket Gallery* con una experiencia más inmersiva, se recomienda hac
 
 
 
+##  Re-descubriendo la hibridacion: Google Fit
 
-## Re-descubriendo la hibridacion: Caso 2
+![enter image description here](https://lh3.googleusercontent.com/ir2-W48gf2uIorNfXw4UDmK1mbq0g79vqe-3JVz9urSlhKQjBT58o57ENqtZ71MovujW10qrVe-mhpiic_Dsrg=w320)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+*Google Fit* es una aplicación creada por *Google* que recopila estadísticas biométricas y datos de actividad diaria a través de teléfonos y *smartwatches*, con el fin de administrar la salud del usuario y su estado físico. La aplicación proporciona un resumen de la actividad diaria y semanal, mostrando estadísticas como el tiempo dedicado a diferentes tipos de ejercicio y el progreso hacia los objetivos establecidos. También ofrece consejos y recomendaciones personalizadas para ayudar a los usuarios a mejorar su actividad física y mantener un estilo de vida saludable.
+
+La aplicación recopila datos de diversas fuentes, como los sensores incorporados en los dispositivos móviles, relojes inteligentes, bandas de fitness y otros dispositivos portátiles.
+
+*Google Fit* se puede sincronizar con otras aplicaciones y dispositivos que traten de salud o fitness para compartir los datos y obtener un análisis más detallado.
+
+Algunos de sus aspectos y características más importantes son:
+
+**-Seguimiento de actividad física:** Registra automáticamente la actividad física de los usuarios, como caminar, correr, ir en bicicleta y muchas otras actividades. También permite registrar manualmente actividades específicas.
+
+**-Metas y desafíos:** Los usuarios pueden establecerse metas de ejercicio personalizadas, como la cantidad de pasos diarios, tiempo de actividad o las calorías quemadas. La aplicación proporciona un seguimiento del progreso hacia estas metas y ofrece desafíos y logros para mantenernos motivados.
+
+**-Análisis de salud:** La plataforma proporciona información detallada sobre la actividad física, incluyendo el tiempo activo, el ritmo cardíaco, las horas y el estado del sueño. También muestra gráficos y estadísticas para ayudar a los usuarios a entender su progreso.
+
+**-Recordatorios personalizados:** *Google Fit* envía recordatorios para mantener a los usuarios activos y cumpliendo con sus metas de ejercicio. También ofrece consejos y recomendaciones personalizadas para mejorar la salud y el bienestar.
+
+  
+
+**-Aplicación multiplataforma:** *Google Fit* está disponible tanto para dispositivos Android como iOS, lo que permite a los usuarios acceder a sus datos y utilizar la aplicación en múltiples dispositivos.
+
+  ![enter image description here](https://wwwhatsnew.com/wp-content/uploads/2021/06/Google-Fit.jpg)
 
 
-### Referencias y Bibliografía
+Según Manovich, se podría argumentar que *Google Fit* es una hibridación visible, ya que se puede identificar los elementos que se combinan, como las funciones de salud y la actividad física con los dispositivos inteligentes y sus aplicaciones.
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+    
+###  Referencias y Bibliografía
 
+ * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+ * [Alberich-Pascual, J. (2018, 18 enero). Mosaic |   Elementos de la
+   creatividad multimedia: apropiación, remediación, hibridación.](https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/)
+ * [Aguilar, R. (2021). Google ya permite visitar museos de todo el mundo
+   desde tu móvil y sin instalar nada. Xataka Móvil.](https://www.xatakamovil.com/aplicaciones/google-permite-visitar-museos-todo-mundo-tu-movil-instalar-nada)
+   
+ * [¿Qué es Google fit? | Guía completa 2021. (2021, 1 octubre).](https://www.crehana.com.%20https://www.crehana.com/blog/estilo-vida/que-es-google-fit/)
+
+  
+
+  
 
 ----
 
