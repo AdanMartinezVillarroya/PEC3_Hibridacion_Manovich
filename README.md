@@ -53,7 +53,7 @@ Para usar *Pocket Gallery* con una experiencia más inmersiva, se recomienda hac
 
   ![Smartphone con museo 3D](https://i0.wp.com/googlediscovery.com/wp-content/uploads/google-pocket-gallery.jpg?resize=800,500&ssl=1)
 
-
+Según Manovich, Pocket Gallery podría reconocerse como una hibridación invisible, ya que hay una fusión de tecnología (realidad aumentada) y arte (obras de arte) para crear una experiencia única e inmersiva para el usuario.
 
 ##  Re-descubriendo la hibridacion: Google Fit
 
